@@ -1,0 +1,78 @@
+body{
+    background-image: url(bg4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+button{
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+}
+.bhn8{
+    background: url(./back1.jpg);
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bhn9{
+    background: url(./bg1.jpg);
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bhn10{
+    background: url(./bg2.jpg);
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bhn11{
+    background: url(./field2.webp);
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+/* // Time change Images */
+/* 
+* {
+    font-family: sans-serif;
+
+} */
+/* 
+img {
+    display: block;
+    width: 800px;
+    height: 500px;
+    margin: 0 auto;
+    transition: all ease 20s;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+body {
+    background: rgb(238, 174, 202);
+    background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+} */
+/* // Time change Images */
+
+
+
+
+
+/* Background  image change  time*/
+/* 
+body{
+    width: 100%;
+    height: 100vh;
+    background-image: url(back1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: 1s;
+} */
+/* Background  image change time */
